@@ -1,4 +1,4 @@
-# cookmasters
+# vue-github-username-nfo
 
 > A Vue.js project
 
